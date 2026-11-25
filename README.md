@@ -13,9 +13,9 @@
 </p>
 
 ##  About Me 
-I'm a data analyst in the making, turning messy data into clear decisions.**
+I'm a data analyst in the making, turning messy data into clear decisions.
 
-I love the "aha!" moment when a messy dataset suddenly reveals something useful. I build dashboards people actually open, automate repetitive work, and create models that help teams plan ahead.
+I love the "aha!" moment when a messy dataset suddenly reveals something useful. I build dashboards people actually open, automate repetitive work, and create models that help teams plan ahead. I build interactive dashboards people actually open, with KPI reporting and data storytelling behind them. I replace repetitive manual reporting with scripted workflows. And I create forecasting and planning models that help teams plan ahead.
 
 Away from the screen, you'll find me Reading.
 
@@ -24,9 +24,9 @@ Away from the screen, you'll find me Reading.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** [Water access analysis (SQL)**: exploring the Maji Ndogo water services survey to find where access gaps are largest]  
+- **Project B:** []
+- **Content Creation:** [e.g., Developing new tutorials on data visualization for my Tiktok account.]
 
 ## 🌱 Currently Learning 
 
@@ -54,8 +54,8 @@ Away from the screen, you'll find me Reading.
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Beginner-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
